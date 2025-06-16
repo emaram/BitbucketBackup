@@ -1,4 +1,4 @@
-# README #
+# Bitbucket Backup #
 
 This script makes a full backup (**_git clone --mirror_**) for all repositories in all projects.
 You can also make backup to a specific number of projects, by setting up the i variable in **backup.sh**
